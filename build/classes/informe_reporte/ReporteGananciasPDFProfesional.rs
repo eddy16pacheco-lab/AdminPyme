@@ -1,0 +1,2 @@
+informe_reporte.ReporteGananciasPDFProfesional
+informe_reporte.BackgroundEventHandlerGanancias
